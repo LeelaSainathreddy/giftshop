@@ -1,0 +1,32 @@
+<h1 class="text-center my-3">Our Portfolio</h1>
+        <hr>
+       <div class="container mb-5">
+          <div class="card-deck">
+              <div class="card">
+                <img src="img/002.jpg" class="card-img-top" alt="...">
+                <div class="card-body">
+                  <h5 class="card-title">Baloon Management</h5>
+                  <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam perspiciatis sapiente molestiae a porro, eaque assumenda quos quo voluptatum.</p>
+                  <button class="btn btn-info btn-sm">Explore now</button>
+                </div>
+              </div>
+              <div class="card">
+                <img src="img/03.jpg" class="card-img-top" alt="...">
+                <div class="card-body">
+                  <h5 class="card-title">Electronics </h5>
+                  <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam perspiciatis sapiente molestiae a porro, eaque assumenda quos quo voluptatum.</p>
+                  <button class="btn btn-info btn-sm">Explore now</button>
+                </div>
+              </div>
+              <div class="card">
+                <img src="img/003.jpg" class="card-img-top">
+                <div class="card-body">
+                  <h5 class="card-title">Beatician Management</h5>
+                  <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam perspiciatis sapiente molestiae a porro, eaque assumenda quos quo voluptatum.</p>
+                  <button class="btn btn-info btn-sm">Explore now</button>
+                </div>
+              </div>
+            </div>
+       </div>
+
+
